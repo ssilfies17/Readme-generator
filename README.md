@@ -10,7 +10,7 @@ A helpful, automated `README.md` generator. For those exhausted with the arduous
 
 ## Table of Contents
 
-- [Installation] (#https://github.com/ssilfies17/Readme-generator#installation)
+- [Installation](#https://github.com/ssilfies17/Readme-generator#installation)
 - [Usage] (#usage)
 - [Credits] (#credits)
 - [License] (#license)
