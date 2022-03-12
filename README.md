@@ -2,7 +2,7 @@
 
 ## Description
 
-A helpful, automated `README.md` generator. For those exhausted with the arduous task of writing README after README, all you have to do is follow the prompts! Isn't markdown great?
+A helpful, automated `README.md` generator. For those exhausted with the arduous task of writing README after README, all you have to do is follow the prompts! All repsonses should be written in proper Markdown context. Isn't Markdown great?
 
 
 
