@@ -2,7 +2,7 @@
 
 ## Description
 
-A helpful, automated README.md generator. For those exhausted with the arduous task of writing README after README, all you have to do is follow the prompts! Isn't markdown great?
+A helpful, automated `README.md` generator. For those exhausted with the arduous task of writing README after README, all you have to do is follow the prompts! Isn't markdown great?
 
 ## Installation
 
@@ -25,7 +25,7 @@ Once your `package.json` file has been created ensure it has the following depen
 
 1. Open an integreated terminal.
 
-2. Double check that you have package.json with the required dependencies. 
+2. Double check that you have `package.json` with the required dependencies. 
 
 3. In terminal run the following command:
 
