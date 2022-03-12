@@ -61,3 +61,11 @@ ${credits}
 ${license}
 `;
 
+const start = () => {
+    userAnswers()
+      .then((answers) => fs.writeFileSync('README.md', generateReadme(answers)))
+      .then(() => console.log('Successfully generated your README!'))
+      .catch((err) => console.error(err));
+};
+  
+start();
