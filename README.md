@@ -8,7 +8,7 @@ A helpful, automated `README.md` generator. For those exhausted with the arduous
 
 >This entire `README.md` was created using this generator!
 
->Demonstration Link: [DEMO](https://www.awesomescreenshot.com/video/7850545?key=6c78b25135d0a37e3996e63bf132765c)
+* Demonstration Link: [DEMO](https://www.awesomescreenshot.com/video/7850545?key=6c78b25135d0a37e3996e63bf132765c)
 
 ## Table of Contents
 
