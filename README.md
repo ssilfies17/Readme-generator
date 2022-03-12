@@ -4,6 +4,8 @@
 
 A helpful, automated `README.md` generator. For those exhausted with the arduous task of writing README after README, all you have to do is follow the prompts! Isn't markdown great?
 
+>This entire `README.md` was created using this generator!
+
 ## Installation
 
 All that is required to get this bad boy up and running is you, the User, should generate a `package.json` file with the following dependencies using the following command:
