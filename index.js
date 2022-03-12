@@ -36,3 +36,28 @@ const userAnswers = () => {
     ]);
 };
 
+const generateReadme = ({ title, description, installation, usage, credits, license }) =>
+
+`# ${title}
+
+## Description
+
+${description}
+
+## Installation
+
+${installation}
+
+## Usage
+
+${usage}
+
+## Credits
+
+${credits}
+
+## License
+
+${license}
+`;
+
