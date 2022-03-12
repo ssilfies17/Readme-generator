@@ -8,6 +8,13 @@ A helpful, automated `README.md` generator. For those exhausted with the arduous
 
 >This entire `README.md` was created using this generator!
 
+## Table of Contents
+
+- [Installation] (#installation)
+- [Usage] (#usage)
+- [Credits] (#credits)
+- [License] (#license)
+
 ## Installation
 
 All that is required to get this bad boy up and running is you, the User, should generate a `package.json` file with the following dependencies using the following command:
