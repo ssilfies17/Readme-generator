@@ -50,7 +50,7 @@ node index.js
 
 ```md
 
-![Prompt Demo Screenshot](\assets\Prompt-Demo-Screenshot.png)
+![Demo-Screenshot](/assets/Prompt%20Demo%20Screenshot.png)
 
 ```
 
