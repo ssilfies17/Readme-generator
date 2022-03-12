@@ -11,9 +11,9 @@ A helpful, automated `README.md` generator. For those exhausted with the arduous
 ## Table of Contents
 
 - [Installation](#installation)
-- [Usage] (#usage)
-- [Credits] (#credits)
-- [License] (#license)
+- [Usage](#usage)
+- [Credits](#credits)
+- [License](#license)
 
 ## Installation
 
@@ -55,14 +55,14 @@ node index.js
 
 Created by: Sawyer Silfies
 
-GitHub: [Ssilfies17] (https://github.com/ssilfies17)
+GitHub: [Ssilfies17](https://github.com/ssilfies17)
 
 
 ## License
 
 MIT License
 
-Copyright (c) [2022] [Sawyer Silfies]
+Copyright (c) [2022][Sawyer Silfies]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
