@@ -49,7 +49,9 @@ node index.js
 4. Following along with the prompts in the terminal. 
 
 ```md
-![Prompt Demo Screenshot](/assets/PromptDemoScreenshot.png)
+
+![Prompt Demo Screenshot](/assets/Prompt%20Demo%20Screenshot.png)
+
 ```
 
 5. Some markdown styling may be required to meet your particular needs, but the bulk of the monotony will be taken care of.
