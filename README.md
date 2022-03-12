@@ -27,7 +27,7 @@ Once your `package.json` file has been created ensure it has the following depen
 
 ## Usage
 
-1. Open an integreated terminal.
+1. Open an integrated terminal.
 
 2. Double check that you have `package.json` with the required dependencies. 
 
@@ -39,7 +39,7 @@ node index.js
 
 4. Following along with the prompts in the terminal. 
 
-5. Some markdown styling may be required to meet your particular desires, but the bulk of the monotony will be taken care of.
+5. Some markdown styling may be required to meet your particular needs, but the bulk of the monotony will be taken care of.
 
 6. Enjoy your README!
 
