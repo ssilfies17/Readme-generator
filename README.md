@@ -22,7 +22,7 @@ A helpful, automated `README.md` generator. For those exhausted with the arduous
 All that is required to get this bad boy up and running is you, the User, should generate a `package.json` file with the following dependencies using the following command:
 
 ```bash 
-git init 
+npm init 
 ```
 Once your `package.json` file has been created ensure it has the following dependency:
 
